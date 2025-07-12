@@ -2,7 +2,7 @@
 - 👀 I’m passionate about **AI-driven content generation**, **automated SEO**, **programmatic landing pages**, and **data-informed marketing strategies** that help global brands scale organically.
 - 🌱 I’m currently working on advancing **AI Optimization (AIO)** — an evolution beyond traditional SEO — to help content become more discoverable by both users and AI summarization engines (e.g., SGE, GPT-based agents).
 - 💞️ I’m looking to collaborate with forward-thinking teams in **AI content**, **MarTech SaaS**, and **cross-border e-commerce**, especially those exploring **multilingual AI**, **LLM-enhanced marketing**, or **programmatic content deployment**.
-- 📫 Reach me at **leoo@leoobai.cn** or connect with me on GitHub / Twitter @imleoo.
+- 📫 Reach me at **imleoo@gmail.com** or connect with me on GitHub / Twitter @imleoo.
 
 <!---
 imleoo/imleoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
