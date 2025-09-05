@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Leoo Bai** (白德鑫), founder of **https://Aiseo.icu/**, a startup focused on building the next generation of AI-powered SEO and multilingual digital marketing infrastructure.
+- 👋 Hi, I’m **Leoo Bai** , founder of **https://Aiseo.icu/**, a startup focused on building the next generation of AI-powered SEO and multilingual digital marketing infrastructure.
 - 👀 I’m passionate about **AI-driven content generation**, **automated SEO**, **programmatic landing pages**, and **data-informed marketing strategies** that help global brands scale organically.
 - 🌱 I’m currently working on advancing **AI Optimization (AIO)** — an evolution beyond traditional SEO — to help content become more discoverable by both users and AI summarization engines (e.g., SGE, GPT-based agents).
 - 💞️ I’m looking to collaborate with forward-thinking teams in **AI content**, **MarTech SaaS**, and **cross-border e-commerce**, especially those exploring **multilingual AI**, **LLM-enhanced marketing**, or **programmatic content deployment**.
